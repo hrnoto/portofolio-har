@@ -1,0 +1,20 @@
+body {
+  min-height: 3200px;
+}
+
+.home {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+#certificate {
+  background-color: #fff;
+}
+
+#skills {
+  background-color: #e2edff;
+}
